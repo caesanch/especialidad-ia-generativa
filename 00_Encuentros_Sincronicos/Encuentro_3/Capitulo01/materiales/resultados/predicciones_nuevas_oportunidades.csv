@@ -1,0 +1,4 @@
+﻿escenario,tamano_cliente_empleados,interacciones_comerciales,duracion_proceso_dias,servicios_solicitados,valor_oportunidad_millones_cop,reuniones_decisor,propuesta_formal,relacion_cliente_meses,valor_esperado_predicho_millones_cop,probabilidad_conversion,clase_0_1,clasificacion,revision_humana
+A - avance sólido,2200,10,28,3,280,3,1,18,238.72460766782987,0.8921965476013853,1,Probable,Entradas dentro de rangos; validar contexto comercial
+B - maduración,3500,6,62,5,360,1,1,8,155.3145582422921,0.3922276530593241,0,No probable,Entradas dentro de rangos; validar contexto comercial
+C - exploratoria,480,4,50,2,180,1,0,6,16.341530325649785,0.15559475108236182,0,No probable,Entradas dentro de rangos; validar contexto comercial

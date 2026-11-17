@@ -1,0 +1,3 @@
+﻿escenario,tamano_cliente_empleados,interacciones_comerciales,duracion_proceso_dias,servicios_solicitados,valor_oportunidad_millones_cop,reuniones_decisor,propuesta_formal,relacion_cliente_meses,valor_esperado_predicho_millones_cop,probabilidad_conversion,clase_0_1,clasificacion,revision_humana
+C - exploratoria,480,4,50,2,180,1,0,6,16.341530325649785,0.15559475108236182,0,No probable,Entradas dentro de rangos; validar contexto comercial
+C - cuatro interacciones adicionales,480,8,50,2,180,1,0,6,53.529600510048795,0.2905937213008299,0,No probable,Entradas dentro de rangos; validar contexto comercial

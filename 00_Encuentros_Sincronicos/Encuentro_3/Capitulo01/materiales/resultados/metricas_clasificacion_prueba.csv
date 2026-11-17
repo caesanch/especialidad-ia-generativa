@@ -1,0 +1,2 @@
+﻿umbral,VN,FP,FN,VP,positivos_predichos,accuracy,precision,recall,f1,roc_auc,log_loss
+0.5,78,22,39,41,63,0.6611111111111111,0.6507936507936508,0.5125,0.5734265734265734,0.7015,0.6193561421206596

@@ -1,0 +1,21 @@
+{
+  "semilla_particion": 42,
+  "filas": 900,
+  "particiones": {
+    "entrenamiento": 540,
+    "validacion": 180,
+    "prueba": 180
+  },
+  "regresion_elegida": "ampliada",
+  "C_final": 0.1,
+  "umbral_final": 0.5,
+  "datos_sha256": "51f179569e9fc14624e019689641774e903a1414be90928d995b6203322c217e",
+  "version_python": "3.11.6",
+  "versiones": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "scikit-learn": "1.8.0",
+    "ipykernel": "7.2.0"
+  }
+}
